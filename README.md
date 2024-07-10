@@ -4,6 +4,28 @@
 
 This C# console application is designed to manage employees, payrolls, and vacation days for a company. The application allows users to add, update, and delete employee records, manage payroll entries, and track vacation days. The system uses arrays to store data with a fixed size of 100 for each type of record.
 
+## Usage
+
+- **Main Menu**: Upon running the application, the main menu provides options to modify employees, add payroll entries, view vacation days, and exit the program.
+- **Employee Menu**: Users can list all employees, add a new employee, update an existing employee's details, delete an employee, or return to the main menu.
+- **Payroll Menu**: Users can insert a new payroll entry, view the payroll history for a specific employee, or return to the main menu.
+- **Vacation Menu**: Users can view the vacation days for all employees or return to the main menu.
+
+## Requirements
+
+- .NET Framework
+- Visual Studio or any compatible C# IDE
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in Visual Studio.
+3. Build the solution to restore dependencies.
+4. Run the application.
+
+This project was developed as part of the PROG32356 course at Sheridan College.
+
+
 ## Preloaded Data
 
 The application comes with some preloaded data for employees, payrolls, and vacations.
